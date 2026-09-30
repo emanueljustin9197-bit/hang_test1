@@ -1,0 +1,4 @@
+interface:
+  display_name: "hang_test"
+  short_description: "将零散的需求说明快速整理为清晰且可执行的任务检查清单"
+  default_prompt: "Use $hang-test to turn these rough notes into a concise actionable checklist."
